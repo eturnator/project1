@@ -1,0 +1,6 @@
+yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+site_name: Concord Carlisle for Informed Dialogue
+nav:
+  - Home: index.md
+  - About: about.md
+theme: material
